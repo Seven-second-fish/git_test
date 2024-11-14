@@ -26,7 +26,7 @@ book_qt_2
 
 book_qt_4/book_qt_5
 
-book_qt_6
+book_qt_7
 
 
 
