@@ -28,6 +28,8 @@ book_qt_4/book_qt_5
 
 book_qt_7
 
+book_qt_7
+
 
 
 
